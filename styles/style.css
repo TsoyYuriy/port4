@@ -455,6 +455,10 @@ ul {
     color: rgba(245, 241, 233, 0.6);
     text-decoration: none;  
 }
+.lang-img_wrap img {
+    margin-right: 24px;
+    display: inline-block;
+}
 
 
 
