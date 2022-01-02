@@ -646,6 +646,20 @@ ul {
         line-height: 45px;
         max-width: 450px;
     }
+
+    /* FOOTER */
+    .footer-top {
+        display: flex;
+        align-items: flex-start;
+    }
+    .footer-col {
+        flex-basis: 45%;
+        margin-right: auto;
+    }
+    .footer-col:last-child {
+        margin-right: 0;
+    }
+
 }
 @media screen and (min-width: 1200px) {
     .main {
