@@ -695,4 +695,10 @@ ul {
         bottom: 35%;
         right: 30%;
     }
+
+    /* FOOTER */
+    .footer-row {
+        padding-right: 38px;
+        padding-left: 38px;
+    }
 }
